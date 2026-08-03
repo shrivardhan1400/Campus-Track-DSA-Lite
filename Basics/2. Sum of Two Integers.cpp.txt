@@ -1,0 +1,30 @@
+//https://vardhaman.campustrack.in/question/read-and-print-integer
+
+#include <bits/stdc++.h>
+using namespace std;
+
+//===== Declare Imports here if required =====
+
+
+//===== Declare Global Variables / Functions here if required =====
+
+
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    int t;
+    cin >> t;
+    while (t--) {
+
+        //===== Declare Local Variables / Functions here if required =====
+
+
+        int a, b;
+        cin >> a >> b;
+
+        //===== Write Your Logic Here =====
+        cout<<a+b<<endl;
+
+    }
+    return 0;
+}
