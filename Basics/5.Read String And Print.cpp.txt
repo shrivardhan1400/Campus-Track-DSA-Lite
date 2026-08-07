@@ -1,0 +1,10 @@
+//https://vardhaman.campustrack.in/question/read-string-and-print
+#include<iostream>
+#include<string>
+using namespace std;
+int main(){
+    string r;
+    getline(cin,r);
+    cout<<r;
+    return 0;
+}
